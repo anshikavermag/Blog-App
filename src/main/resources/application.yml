@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Blog-App
+  datasource:
+    url: jdbc:postgresql://localhost:5432/learn
+    username: postgres
+    password: root
+    driver-class-name: org.postgresql.Driver
